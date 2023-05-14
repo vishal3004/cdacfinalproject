@@ -1,0 +1,62 @@
+body{
+	font-family: Roboto;
+	background-color:  rgb(255, 255, 255) ;
+}
+
+.sidebar{
+	background-color:#CE7777;
+	height: 100vh;
+}
+
+.sidebar-menu{
+	color : white;
+	
+}
+select
+{
+    width: 20vw;
+    margin-left: 50px;
+    
+
+}
+
+.form-select
+{
+  width: 26vw;
+  padding: 8px;
+
+}
+
+table
+{
+    margin-left: 40px;
+}
+
+
+
+h5
+{
+    margin-left: 5vw;
+}
+.textar
+{
+    padding-left: 45px;
+}
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+}
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+
+.inputform
+{
+    width: 350px;
+    margin-left: 4vw;
+    padding: 5px;
+    font-size: 20px;
+    
+}
+
+
+
